@@ -1,0 +1,6 @@
+/AbstractPointcutAdvisor.cfc/1.6/Wed Nov 16 16:16:10 2005/-kkv/
+/DefaultPointcutAdvisor.cfc/1.7/Wed Nov 16 16:16:10 2005/-kkv/
+/NamedMethodPointcut.cfc/1.8/Wed Nov 16 16:16:10 2005/-kkv/
+/NamedMethodPointcutAdvisor.cfc/1.6/Wed Nov 16 16:16:11 2005/-kkv/
+/RegexMethodPointcut.cfc/1.1/Fri Jul 07 02:24:40 2006/-kkv/
+/RegexMethodPointcutAdvisor.cfc/1.1/Fri Jul 07 02:24:40 2006/-kkv/
